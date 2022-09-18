@@ -1,0 +1,66 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Sinh Le">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10889</md:content-id>
+    <md:title>Lập trình ứng dụng Web với PHP</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>63953357-8047-4c21-b47a-766d86d87200</md:uuid>
+<md:slug>lap-trinh-ung-dung-web-voi-php</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Giới thiệu chung</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>(Untitled)</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title> HDJ - Các thành phần cơ bản trên một trang Web</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>HDJ là gì?</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Ngôn ngữ đánh dấu siêu văn bản HTML</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>CSS - Định dạng hiển thị các thành phần trên trang HTML</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Java Script - Ngôn ngữ lập trình trên trình duyệt</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cơ bản về NNLT PHP</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Hướng đối tượng trong PHP</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>PDO và thao tác với CSDL MySQL</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Xử lý XML</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Lập trình Socket</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Mỏi tay quá :D</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
